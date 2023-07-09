@@ -16,5 +16,5 @@ Recreation of past landing page projects using react.
 
 ## 🚀 Install all dependencies:
 ```sh
-npm i
+npm install
 ```
